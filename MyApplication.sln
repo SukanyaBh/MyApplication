@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanHelper", "BooleanHel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework", "Framework\Framework.csproj", "{D556C708-599E-4CDA-BF78-1EE68819114E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingHelper", "MappingHelper\MappingHelper.csproj", "{F531756B-0138-4103-9CED-CAECF0F3F2E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListHelper", "ListHelper\ListHelper.csproj", "{F7816453-E65A-4F2C-B4A3-ADAB47C1E68B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{D556C708-599E-4CDA-BF78-1EE68819114E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D556C708-599E-4CDA-BF78-1EE68819114E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D556C708-599E-4CDA-BF78-1EE68819114E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F531756B-0138-4103-9CED-CAECF0F3F2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F531756B-0138-4103-9CED-CAECF0F3F2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F531756B-0138-4103-9CED-CAECF0F3F2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F531756B-0138-4103-9CED-CAECF0F3F2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7816453-E65A-4F2C-B4A3-ADAB47C1E68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7816453-E65A-4F2C-B4A3-ADAB47C1E68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7816453-E65A-4F2C-B4A3-ADAB47C1E68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7816453-E65A-4F2C-B4A3-ADAB47C1E68B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
